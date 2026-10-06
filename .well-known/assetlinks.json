@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.dracallo05.twa",
+        "sha256_cert_fingerprints": ["8B:D5:78:73:66:24:BE:3A:E7:05:44:AA:8F:8C:B1:08:A2:B4:5D:B0:47:D8:14:EA:A1:8E:6B:73:8F:15:59:D5"]
+      }
+    }]
